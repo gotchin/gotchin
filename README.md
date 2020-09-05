@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gotchin&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gotchin&layout=compact&theme=dracula" />
-</a>
+- 🔭 I’m currently working on Web Developer.
+- 📫 How to reach me: gotchin22@gmail.com
+
+### My GitHub Stats 🧑‍💻
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gotchin&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Most Used Languages 🛠
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gotchin&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
